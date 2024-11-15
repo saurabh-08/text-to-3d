@@ -27,7 +27,6 @@ Welcome to the **Text-to-3D Models** repository. This project is dedicated to ge
 ![High-Quality Burger](Samples/ScoreJacobianChaining_output_A_high_quality_photo_of_a_delicious_burger.gif)
 
 ### Stable DreamFusion Output
-![Delicious Hamburger](Samples/Stable_DreamFusion_output_a_delicious_hamburger.gif)
 ![Hamburger](Samples/Stable_DreamFusion_output_a_hamburger.gif)
 ![Eagle](Samples/Stable_DreamFusion_output_an_eagle.gif)
 
