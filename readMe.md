@@ -2,7 +2,7 @@
 
 Welcome to the **Text-to-3D Models** repository. This project is dedicated to generating 3D models from textual descriptions using cutting-edge machine learning models. The repository provides scripts, configurations, and tools to enable and facilitate the generation of diverse and high-quality 3D models from text prompts.
 
-# GIF Samples
+## GIF Samples
 
 Below are some examples of GIFs generated from our models.
 
