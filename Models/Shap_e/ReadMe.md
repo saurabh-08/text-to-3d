@@ -1,4 +1,3 @@
-Here’s a README file for the Shap-E project with structured information and the repository link.
 
 ```markdown
 # Shap-E: Generating Conditional 3D Implicit Functions
