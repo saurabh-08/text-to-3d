@@ -31,7 +31,7 @@ On macOS or Linux, open the Terminal application. On Windows, either open **Comm
 
 ### 3. Connect Using SSH
 
-To connect using your username and IP address, run the following command:
+To connect using your username, run the following command:
 
 ```bash
 ssh -p 2222 username@100.111.139.62
