@@ -5,48 +5,50 @@ Welcome to the **Text-to-3D Models** repository. This project is dedicated to ge
 ## Model Rendered Outputs
 
 ### Control4D Output
-<img src="Samples/Control4D_output_twindom_Elon_Musk_wearing_red_shirt_RAW_photo_high_detailed_skin.gif" alt="Elon Musk wearing red shirt" width="300"/>
+![Elon Musk wearing red shirt](Samples/Control4D_output_twindom_Elon_Musk_wearing_red_shirt_RAW_photo_high_detailed_skin.gif)
 
 ### Magic3D IF Output
-<img src="Samples/Magic3D_IF_output_magic3d-refine-sd_A_bicycle_helmet_0.gif" alt="Bicycle Helmet - Magic3D Refine" width="300"/>
+![Bicycle Helmet - Magic3D Refine](Samples/Magic3D_IF_output_magic3d-refine-sd_A_bicycle_helmet_0.gif)
 
 ### DreamFusion IF Output
-<img src="Samples/DreamFusion_IF_output_an_orange_pumpkin.gif" alt="Pumpkin" width="300"/>
+![Pumpkin](Samples/DreamFusion_IF_output_an_orange_pumpkin.gif)
 
 ### Magic3D SD Output
-<img src="Samples/Magic3D_SD_output_a_delicious_hamburger.gif" alt="Delicious Hamburger" width="300"/>
+![Delicious Hamburger](Samples/Magic3D_SD_output_a_delicious_hamburger.gif)
 
 ### ProlificDreamer Output
-<img src="Samples/ProlificDreamer_output_a_pineapple.gif" alt="Pineapple" width="300"/>
+![Pineapple](Samples/ProlificDreamer_output_a_pineapple.gif)
 
 ### Fantasia3D Output
-<img src="Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae.gif" alt="Ice Cream Sundae" width="300"/>
-<img src="Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae_texture.gif" alt="Ice Cream Sundae Texture" width="300"/>
+![Ice Cream Sundae](Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae.gif)
+![Ice Cream Sundae Texture](Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae_texture.gif)
 
 ### ScoreJacobianChaining Output
-<img src="Samples/ScoreJacobianChaining_output_A_high_quality_photo_of_a_delicious_burger.gif" alt="High-Quality Burger" width="300"/>
+![High-Quality Burger](Samples/ScoreJacobianChaining_output_A_high_quality_photo_of_a_delicious_burger.gif)
 
 ### Stable DreamFusion Output
-<img src="Samples/Stable_DreamFusion_output_a_hamburger.gif" alt="Hamburger" width="300"/>
-<img src="Samples/Stable_DreamFusion_output_an_eagle.gif" alt="Eagle" width="300"/>
+![Hamburger](Samples/Stable_DreamFusion_output_a_hamburger.gif)
+![Eagle](Samples/Stable_DreamFusion_output_an_eagle.gif)
 
 ### Latent NeRF Output
-<img src="Samples/Latent_NeRF_output_a_delicious_hamburger.gif" alt="Delicious Hamburger" width="300"/>
-<img src="Samples/Latent_NeRF_output_a_delicious_hamburger_refine.gif" alt="Delicious Hamburger Refine" width="300"/>
+![Delicious Hamburger](Samples/Latent_NeRF_output_a_delicious_hamburger.gif)
+![Delicious Hamburger Refine](Samples/Latent_NeRF_output_a_delicious_hamburger_refine.gif)
 
 ### Magic123 Output
-<img src="Samples/Magic123_output_a_delicious_hamburger_course.gif" alt="Delicious Hamburger Course" width="300"/>
-<img src="Samples/Magic123_output_a_delicious_hamburger_refine.gif" alt="Delicious Hamburger Refine" width="300"/>
+![Delicious Hamburger Course](Samples/Magic123_output_a_delicious_hamburger_course.gif)
+![Delicious Hamburger Refine](Samples/Magic123_output_a_delicious_hamburger_refine.gif)
 
 ### Magic3D IF Output - Coarse
-<img src="Samples/Magic3D_IF_output_magic3d-coarse-if_A_bicycle_helmet_0.gif" alt="Bicycle Helmet Coarse" width="300"/>
+![Bicycle Helmet Coarse](Samples/Magic3D_IF_output_magic3d-coarse-if_A_bicycle_helmet_0.gif)
 
 ### TextMesh Output
-<img src="Samples/TextMesh_output_cowboy_boots.gif" alt="Cowboy Boots" width="300"/>
+![Cowboy Boots](Samples/TextMesh_output_cowboy_boots.gif)
 
 ### Shap-E Output
-<img src="Samples/shap_e_ImageToStl.com_example_mesh_0.gif" alt="Mesh Example" width="300"/>
+![Mesh Example](Samples/shap_e_ImageToStl.com_example_mesh_0.gif)
 
+
+here is the final code. But I want some scaling, can we make the .gif render in a similar size?
 ## Repository Structure
 
 - **Models/**: Contains all the different models tested in this repository. Each model folder includes:
