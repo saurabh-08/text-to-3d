@@ -1,4 +1,4 @@
-# Connecting to Your Ubuntu SSH Server
+# Connecting to the Cloud GPU Server
 
 This guide will walk you through the steps to connect to the Ubuntu SSH server I have provisioned.
 
