@@ -76,3 +76,4 @@ pip install -i https://pypi.taichi.graphics/simple/ taichi-nightly
 - **CUDA:** Version 11.6
 - **Hardware:** NVIDIA V100 GPU
 
+For more details, refer to the [original repository](https://github.com/ashawkey/stable-dreamfusion/tree/main).
