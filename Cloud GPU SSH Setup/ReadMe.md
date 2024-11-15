@@ -1,6 +1,6 @@
 # Connecting to the Cloud GPU Server
 
-This guide will walk you through the steps to connect to the Ubuntu SSH server I have provisioned.
+This guide will walk you through the steps to connect to the Ubuntu GPU server I have provisioned.
 
 ## System Specifications
 ```
@@ -16,8 +16,8 @@ This guide will walk you through the steps to connect to the Ubuntu SSH server I
 ## Prerequisites
 
 - **SSH Client**: Ensure you have an SSH client installed. Most Linux and macOS systems come with SSH pre-installed. Windows users can use tools like **PuTTY** or the built-in **OpenSSH** client (available on Windows 10 and later).
-- **Credentials**: Contact the owner to obtain necessary credentials.
-- **VPN Network Access**: [Request here](https://login.tailscale.com/uinv/i05bd69e23b391775)
+- **Credentials**: Contact the owner to obtain the necessary credentials.
+- **VPN Network Access**: This needs to be approved by the admin [request here](https://login.tailscale.com/uinv/i05bd69e23b391775)
 
 ## Steps to Connect
 
