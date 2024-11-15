@@ -32,37 +32,7 @@ pip install -e .
 
 Set the `BLENDER_PATH` environment variable to the path of the Blender executable if using the encoding functionality.
 
-## Usage
-
-The repository includes several Jupyter Notebooks to get you started:
-
-1. **Text-to-3D Model** (`sample_text_to_3d.ipynb`): Sample a 3D model conditioned on a text prompt.
-
-2. **Image-to-3D Model** (`sample_image_to_3d.ipynb`): Sample a 3D model conditioned on a synthetic view image. For optimal results, it's recommended to remove the background from the input image.
-
-3. **Encode Model** (`encode_model.ipynb`): Load a 3D model or a mesh (trimesh), generate multiview renders and a point cloud, encode them into a latent, and render it back. This notebook requires Blender, and the `BLENDER_PATH` environment variable should be set.
-
 ## Resources
 
 - **Repository**: [OpenAI Shap-E on GitHub](https://github.com/openai/shap-e)
-- **License**: MIT License
 
-## Contributors
-
-The project has been contributed to by the following users:
-- @unixpickle
-- @heewooj
-- @bitsnaps
-- @chand1012
-- @mattdeitke
-- @onpix
-- @mertyyanik
-- @ahmadmustafaanis
-
-## License
-
-Shap-E is released under the MIT License.
-
----
-
-For additional information, refer to the [README](https://github.com/openai/shap-e) on the official GitHub repository.
