@@ -75,7 +75,7 @@ Follow the steps below to set up the environment required to run these models:
      nvidia-smi
      ```
 
-This setup process ensures that your environment is configured for CUDA, enabling efficient GPU utilization for model training and generation tasks.
+Now that the environment is set up, follow the model-specific README file in the `Models/` directory to run the model of your choice. Each model's README includes instructions and example commands tailored to that model.
 
 ## Contributing
 
