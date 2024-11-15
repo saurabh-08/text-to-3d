@@ -1,5 +1,3 @@
-
-```markdown
 # Shap-E: Generating Conditional 3D Implicit Functions
 
 This repository provides the official code and model release for **Shap-E**, a model for generating 3D objects conditioned on text or images.
