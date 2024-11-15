@@ -7,48 +7,48 @@ Welcome to the **Text-to-3D Models** repository. This project is dedicated to ge
 Below are some examples of GIFs generated from our models.
 
 ### Control4D Output
-![Elon Musk wearing red shirt](Models/Samples/Control4D_output_twindom_Elon_Musk_wearing_red_shirt_RAW_photo_high_detailed_skin.gif)
+![Elon Musk wearing red shirt](Samples/Control4D_output_twindom_Elon_Musk_wearing_red_shirt_RAW_photo_high_detailed_skin.gif)
 
 ### Magic3D IF Output
-![Bicycle Helmet - Magic3D Refine](Models/Samples/Magic3D_IF_output_magic3d-refine-sd_A_bicycle_helmet_0.gif)
+![Bicycle Helmet - Magic3D Refine](Samples/Magic3D_IF_output_magic3d-refine-sd_A_bicycle_helmet_0.gif)
 
 ### DreamFusion IF Output
-![Pumpkin](Models/Samples/DreamFusion_IF_output_an_orange_pumpkin.gif)
+![Pumpkin](Samples/DreamFusion_IF_output_an_orange_pumpkin.gif)
 
 ### Magic3D SD Output
-![Delicious Hamburger](Models/Samples/Magic3D_SD_output_a_delicious_hamburger.gif)
+![Delicious Hamburger](Samples/Magic3D_SD_output_a_delicious_hamburger.gif)
 
 ### ProlificDreamer Output
-![Pineapple](Models/Samples/ProlificDreamer_output_a_pineapple.gif)
+![Pineapple](Samples/ProlificDreamer_output_a_pineapple.gif)
 
 ### Fantasia3D Output
-![Ice Cream Sundae](Models/Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae.gif)
-![Ice Cream Sundae Texture](Models/Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae_texture.gif)
+![Ice Cream Sundae](Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae.gif)
+![Ice Cream Sundae Texture](Samples/Fantasia3D_output_a_DSLR_photo_of_an_ice_cream_sundae_texture.gif)
 
 ### ScoreJacobianChaining Output
-![High-Quality Burger](Models/Samples/ScoreJacobianChaining_output_A_high_quality_photo_of_a_delicious_burger.gif)
+![High-Quality Burger](Samples/ScoreJacobianChaining_output_A_high_quality_photo_of_a_delicious_burger.gif)
 
 ### Stable DreamFusion Output
-![Delicious Hamburger](Models/Samples/Stable_DreamFusion_output_a_delicious_hamburger.gif)
-![Hamburger](Models/Samples/Stable_DreamFusion_output_a_hamburger.gif)
-![Eagle](Models/Samples/Stable_DreamFusion_output_an_eagle.gif)
+![Delicious Hamburger](Samples/Stable_DreamFusion_output_a_delicious_hamburger.gif)
+![Hamburger](Samples/Stable_DreamFusion_output_a_hamburger.gif)
+![Eagle](Samples/Stable_DreamFusion_output_an_eagle.gif)
 
 ### Latent NeRF Output
-![Delicious Hamburger](Models/Samples/Latent_NeRF_output_a_delicious_hamburger.gif)
-![Delicious Hamburger Refine](Models/Samples/Latent_NeRF_output_a_delicious_hamburger_refine.gif)
+![Delicious Hamburger](Samples/Latent_NeRF_output_a_delicious_hamburger.gif)
+![Delicious Hamburger Refine](Samples/Latent_NeRF_output_a_delicious_hamburger_refine.gif)
 
 ### Magic123 Output
-![Delicious Hamburger Course](Models/Samples/Magic123_output_a_delicious_hamburger_course.gif)
-![Delicious Hamburger Refine](Models/Samples/Magic123_output_a_delicious_hamburger_refine.gif)
+![Delicious Hamburger Course](Samples/Magic123_output_a_delicious_hamburger_course.gif)
+![Delicious Hamburger Refine](Samples/Magic123_output_a_delicious_hamburger_refine.gif)
 
 ### Magic3D IF Output - Coarse
-![Bicycle Helmet Coarse](Models/Samples/Magic3D_IF_output_magic3d-coarse-if_A_bicycle_helmet_0.gif)
+![Bicycle Helmet Coarse](Samples/Magic3D_IF_output_magic3d-coarse-if_A_bicycle_helmet_0.gif)
 
 ### TextMesh Output
-![Cowboy Boots](Models/Samples/TextMesh_output_cowboy_boots.gif)
+![Cowboy Boots](Samples/TextMesh_output_cowboy_boots.gif)
 
 ### Shap-E Output
-![Mesh Example](Models/Samples/shap_e_ImageToStl.com_example_mesh_0.gif)
+![Mesh Example](Samples/shap_e_ImageToStl.com_example_mesh_0.gif)
 
 ## Repository Structure
 
