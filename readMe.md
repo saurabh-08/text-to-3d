@@ -2,9 +2,7 @@
 
 Welcome to the **Text-to-3D Models** repository. This project is dedicated to generating 3D models from textual descriptions using cutting-edge machine learning models. The repository provides scripts, configurations, and tools to enable and facilitate the generation of diverse and high-quality 3D models from text prompts.
 
-## GIF Samples
-
-Below are some examples of GIFs generated from our models.
+## Model Rendered Outputs
 
 ### Control4D Output
 ![Elon Musk wearing red shirt](Samples/Control4D_output_twindom_Elon_Musk_wearing_red_shirt_RAW_photo_high_detailed_skin.gif)
