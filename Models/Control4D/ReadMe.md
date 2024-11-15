@@ -65,5 +65,3 @@ python _runner.py
 ## Original Repository
 For further details, you can refer to the [original threestudio repository](https://github.com/threestudio-project/threestudio).
 ```
-
-This `README.md` includes the complete setup instructions in sequential order with validated `conda` and `pip` commands. Let me know if any further customization is needed!
