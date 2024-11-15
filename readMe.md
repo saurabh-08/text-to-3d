@@ -14,42 +14,28 @@ Welcome to the **Text-to-3D Models** repository. This project is dedicated to ge
 This repository includes configurations and scripts for various state-of-the-art text-to-3D models. Below is a list of the models and a brief description of each:
 
 1. **Control4D**: Enables high-fidelity and spatiotemporal-consistent 4D portrait editing using text instructions.
-
 2. **DreamFusion_IF**: Utilizes DeepFloyd IF for text-to-3D generation, producing high-quality 3D models from textual descriptions.
-
 3. **DreamFusion_SD**: Employs Stable Diffusion for text-to-3D synthesis, creating 3D content guided by text prompts.
-
 4. **Fantasia3D**: Generates highly detailed and high-fidelity 3D content based on user-provided meshes or ellipsoids.
-
 5. **HiFA**: High-Fidelity 3D Asset generation model that creates detailed 3D assets from textual descriptions.
-
 6. **InstructNeRF2NeRF**: Facilitates 3D editing with NeRF patch-based rendering, allowing modifications based on textual instructions.
-
 7. **Latent_NeRF**: Trains NeRF models in the latent space of diffusion models, enabling efficient 3D content generation.
-
 8. **Magic123**: A two-stage text-to-3D generation model that creates high-quality 3D textured mesh models from input text prompts.
-
 9. **Magic3D_IF**: Utilizes DeepFloyd IF in Magic3D for high-resolution text-to-3D content creation.
-
 10. **Magic3D_SD**: Employs Stable Diffusion in Magic3D for generating high-quality 3D models from textual descriptions.
-
 11. **ProlificDreamer**: A unified framework for 3D content creation from text prompts, single images, and few-shot images.
-
 12. **ScoreJacobianChaining**: A method for 3D content generation that leverages score-based models for improved quality.
-
 13. **Shap-E**: Generates 3D objects conditioned on text or images, facilitating diverse 3D content creation.
-
 14. **StableZero123**: Combines Zero123 with Stable Diffusion for efficient text-to-3D generation.
-
 15. **Stable_DreamFusion**: A Stable Diffusion version of DreamFusion, enabling text-to-3D synthesis using diffusion models.
-
 16. **TextMesh**: Generates 3D meshes from textual descriptions, allowing for detailed 3D model creation.
-
 17. **Zero-1-to-3**: A model that facilitates 3D generation from a single image, enabling efficient 3D content creation.
 
 Each model's directory contains sample outputs, offering insights into the model's performance and quality.
 
 ## Installation Guide
+
+> **Recommended Environment**: This repository has been tested on **Ubuntu 22.04 (LTS)** with an **NVIDIA RTX 4090 24GB GPU**. CUDA version **11.8** was used for all models. These specifications are recommended to achieve optimal performance and compatibility.
 
 Follow the steps below to set up the environment required to run these models:
 
